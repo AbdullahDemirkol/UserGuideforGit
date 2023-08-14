@@ -142,4 +142,4 @@ Başka bir branchdeyken yaptığımız değişikliği kommitlicek kadar emin olm
 **"git stash apply stashismi"** komutuyla stashismi olan değişikliği bize getiriyor.
 >![git-stash-apply-command](https://github.com/AbdullahDemirkol/UserGuideforGit/blob/main/Pictures/git-stash-apply-command.jpg)
 
-**README.md** dosyası için yazı kuralları Markdown işaretleme dili kullanılır. Bunun için (Markdown İşaretleme Dili Rehberi)[https://commonmark.org/help/] adresinden ulaşabilirsiniz.
+**README.md** dosyası için yazı kuralları Markdown işaretleme dili kullanılır. Bunun için [Markdown İşaretleme Dili Rehberi](https://commonmark.org/help/) adresinden ulaşabilirsiniz.
